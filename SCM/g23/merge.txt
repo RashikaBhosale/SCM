@@ -1,0 +1,6 @@
+Text written in master branch
+
+Text written in mastr before merge
+
+Text written in New branch
+
